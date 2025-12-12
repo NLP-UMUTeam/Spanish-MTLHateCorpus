@@ -1,4 +1,4 @@
-# MTLHateCorpus 2023
+# Spanish-MTLHateCorpus
 ## Multi-task Learning for Hate Speech Detection: Identifying Speech Type, Target, Targeted-group, and Intensity in Spanish
 https://www.sciencedirect.com/science/article/pii/S0920548925000194
 
